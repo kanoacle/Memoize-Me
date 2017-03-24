@@ -1,0 +1,11 @@
+button {
+  width: 20%;
+  position: relative;
+  left: 30%;
+  margin-top: 20%;
+  height: 50px;
+}
+
+button:focus {
+  outline: 0;
+}
